@@ -26,8 +26,6 @@
     transform: scale(0.8);
     box-shadow: 0 32px 75px rgba(68, 77, 136, 0.2);
   }
-  
-  /* Wrapper */
   .imageWrapper {
     width: 100%;
     height: 100vh;
